@@ -1,5 +1,5 @@
-# SDL2 for Nim
-This package contains the bindings for SDL2 to Nim.
+# SDL2 for Nim with SDL MixerX
+This package contains the bindings for SDL2 to Nim with SDL MixerX.
 
 # Pre-requisites
 You must install the SDL2 C libraries before these Nim bindings can be used.
